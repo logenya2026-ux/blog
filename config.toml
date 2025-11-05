@@ -1,0 +1,8 @@
+baseURL = "https://blog.logenya.com/"
+languageCode = "es"
+title = "Logenya Blog"
+theme = "ananke"
+
+[params]
+  author = "Gabriel Barra"
+  description = "Networking, Automatización y Consultoría TI"
